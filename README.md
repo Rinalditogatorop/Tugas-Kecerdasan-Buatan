@@ -4,6 +4,7 @@ AI
 NIM. 131113484
 Nama : Rinaldi Ropenri Togatorop
 TP-B Pagi
+
 1. Apakah anda setuju atau tidak dengan pendapat Turing?
 Saya Tidak setuju dengan pendapat Alan Turing, menurut saya Pemikirin manusia tidak bisa disamakan dengan dengan pemikiran mesin karena pemikiran manusia bisa memikirkan dua pendapat atau lebih dalam menyelesaikan suatu masalah lain hal dengan mesin pasti hanya memikirkan satu pendapat yang dianggap bisa menyelesaikan suatu masalah tertentu, hal inilah yang harus diadopsi ke mesin. Inilah yang membuat saya tidak setuju.
 
@@ -65,11 +66,11 @@ Pengolahan Citra (Image Processing) merupakan bidang yang berhubungan dengan pro
 Sedangkan Pengenalan Pola (Pattern Recognition), bidang ini berhubungan dengan proses identifikasi obyek pada citra atau interpretasi citra. Proses ini bertujuan untuk mengekstrak informasi/pesan yang disampaikan oleh gambar/citra.
 
 Contoh : 
-•	Pengendalian proses (misalnya, sebuah robot industri atau kendaraan otonom).
-•	Mendeteksi peristiwa (misalnya, untuk pengawasan visual atau orang menghitung).
-•	Mengorganisir informasi (misalnya, untuk pengindeksan database foto dan gambar urutan).
-•	Modeling benda atau lingkungan (misalnya, inspeksi industri, analisis citra medis atau model topografi).
-•	Interaksi (misalnya, sebagai input ke perangkat untuk interaksi komputer-manusia).
+•Pengendalian proses (misalnya, sebuah robot industri atau kendaraan otonom).
+•Mendeteksi peristiwa (misalnya, untuk pengawasan visual atau orang menghitung).
+•Mengorganisir informasi (misalnya, untuk pengindeksan database foto dan gambar urutan).
+•Modeling benda atau lingkungan (misalnya, inspeksi industri, analisis citra medis atau model topografi).
+•Interaksi (misalnya, sebagai input ke perangkat untuk interaksi komputer-manusia).
 
  Robotika
 Kecerdasan Buatan (Artificial Intelligence) dalam robotik adalah suatu algorithma (yang dipandang) cerdas yang diprogramkan ke dalam kontroler robot. Pengertian cerdas di sini sangat relatif, karena tergantung dari sisi mana sesorang memandang. Dalam literatur, orang pertama yang dianggap sebagai pionir dalam mengembangkan mesin cerdas (intelligence machine) adalah Alan Turing, sorang matematikawan asal Inggris yang memulai karir saintifiknya di awal tahun 1930-an. Di tahun 1937 ia menulis paper tentang konsep mesin universal (universal machine). Kemudian, selama perang dunia ke-2 ia dikenal sebagai pemain kunci dalam penciptaan Enigma, sebuah mesin encoding milik militer Jerman. Ia dikenal juga sebagai pencipta pertama program komputer untuk bermain catur, yang kemudian program ini dikembangkan dan dimainkan di komputer milik Manchester University. Karya-karyanya ini, yang kemudian dikenal sebagai Turing Machine, dewasa ini masih dapat ditemukan aplikasi-aplikasinya. Beberapa tulisannya yang berkaitan dengan prediksi perkembangan komputer di masa datang akhirnya juga ada yang terbukti. Misalnya tentang ramalannya bahwa di tahun 2000-an komputer akan mampu melakukan percakapan dengan manusia. Meski tidak ditemukan dalam paper-papernya tentang istilah tsb, para peneliti di bidang ini sepakat untuk menobatkan Turing sebagai orang pertama yang mengembangkan kecerdasan buatan.
