@@ -10,15 +10,14 @@ Saya Tidak setuju dengan pendapat Alan Turing, menurut saya Pemikirin manusia ti
 2. Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
 Menurut saya tidak akan ada komputer yang bisa melewati tes Turing karena Kecerdasan itu adalah proses bernalar yang hanya bisa dilakukan manusia computer tidak akan bisa melewati fase ini, dan komputer memiliki memory yang terbatas itu menyebabkan komputer mempunyai batasan, sifat alami setiap manusia berbeda beda itu merupakan suatu hal yang tidak mungkin bagi komputer bisa berkomunukasi dalam satu waktu dengan dua sifat manusia atau lebih dalam waktu yang bersamaan.
 
-3.	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
+3.Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
 Banyak halangan yang harus di hadapi, terutama menciptakan suatu mesin yang bisa mengadopsi sifat manusia, kemudian seandainya terciptanya suatu komputer tersebut apakah dapat di terima oleh manusia.
 
 Soal 2 : 
 
-	Pengolahan Bahasa Alami
+ Pengolahan Bahasa Alami
 
 Pemrosesan bahasa alami, disingkat PBA atau NLP (natural language processing), adalah cabang ilmu komputer dan linguistik yang mengkaji interaksiantara komputer dengan bahasa (alami) manusia. NLP sering dianggap sebagai cabang dari kecerdasan buatan dan bidang kajiannya bersinggungan dengan linguistik komputasional. Kajian NLP antara lain mencakup segmentasi tuturan (speech segmentation), segmentasi teks (text segmentation), penandaan kelas kata (part-of-speech tagging), serta pengawataksaan makna (word sense disambiguation). Meskipun kajiannya dapat mencakup teks dan tuturan,pemrosesan tuturan (speech processing) telah berkembang menjadi suatu bidang kajian terpisah.
-
 
 Contoh :
 1.Fonetik dan fonologi : berhubungan dengan suara yang menghasilkan kata yang dapat dikenali. Bidang ini penting dalam aplikasi yang memakai metode speech-based system.
@@ -30,7 +29,7 @@ Contoh :
 7.World knowledge : mencakup arti sebuah kata secara umum dan apakah ada arti khusus bagi suatu kata dalam suatu percakapan dengan konteks tertentu.
 
 
-	Knowledge representation 
+ Knowledge representation 
 
 Knowledge representation ( KR ) adalah bidang kecerdasan buatan ( AI ) didedikasikan untuk mewakili informasi tentang dunia dalam bentuk yang sistem komputer dapat memanfaatkan untuk menyelesaikan tugas-tugas yang kompleks seperti mendiagnosis kondisi medis atau memiliki dialog dalam bahasa alami . representasi pengetahuan menggabungkan temuan dari psikologi rujukan tentang bagaimana manusia memecahkan masalah dan mewakili pengetahuan untuk merancang formalisme yang akan membuat sistem yang kompleks lebih mudah untuk merancang dan membangun . Pengetahuan representasi dan penalaran juga menggabungkan temuan dari logika untuk mengotomatisasi berbagai macam alasan , seperti penerapan aturan atau hubungan dari set dan subset .
 
@@ -38,7 +37,7 @@ Contoh Knowledge representation termasuk jaring semantik , arsitektur sistem , F
 
 
 
-	Automated Reasoning
+ Automated Reasoning
 Automated Reasoning adalah seni dan ilmu yang menjadikan komputer untuk  menerapkan penalaran logis dalam memecahkan masalah, misalnya untuk membuktikan teorema, memecahkan teka-teki, sirkuit desain, verifikasi atau mensintesis program komputer. Objek penalaran otomatis adalah menulis program komputer yang membantu dalam memecahkan masalah dan dalam menjawab pertanyaan-pertanyaan yang membutuhkan penalaran. Bantuan yang diberikan oleh program penalaran otomatis tersedia dalam dua modus yang berbeda.
 Aspek penting dalam memecahkan suatu masalah utama dalam suatu program adalah menemukan jawaban dari suatu teka teki dan kemudian memutuskan bahaasa apa yang digunakan untuk mewakili dalam pemberian informasi tentang bagaimana cara memecahkan teka teki tersebut,setelah menyelesaikan semua itu maka akan dapat menarik kesimpulan. Jika suatu program telah berjalan maka programmer akan membuat komputasi yang kiranya rumit menjadi lebih efisien. Ketika penelitan utama dari pekerjaan telah didapatkan maka dibuat di buat kerangka teori yang didalanya membahas beberapa point diantara adalah automated reasoning yang pembahasan didalamnya menjawab segala pertanyaan didalam suatu masalah dengan logika dan matematika.
 Beberapa metode yang digunakan dalam automata dalam mengambil sebuah keputusan, diantaranya kalkulasi sekuensial, Deduksi , Metode hubungan matriks, term rewriting, induksi matematika.
@@ -49,7 +48,7 @@ Contohnya:
 
 
 
-	Machine learning
+ Machine learning
 Machine learning adalah sebuah studi yang mempelajari cara untuk memprogram sebuah komputer untuk belajar. Ada 4 kategori besar dimana sebuah aplikasi sulit untuk dibuat. Pertama, bila tidak ada manusia yang menguasai bidang tersebut. Kedua, bila ada manusia yang menguasai hal tersebut namun ia tidak mampu untuk menjelaskannya. Ketiga, adalah saat keadaan dapat berubah dengan cepat. Keempat, bila aplikasi harus dibuat berbeda untuk masing- masing pengguna.
 Cara yang paling sederhana mendapatkan knowledge adalah rote learning atau menyimpan informasi yang sudah dikalkulasi. Cara lainnya adalah dengan mendapatkan pengetahuan dari orang lain yang sudah ahli. Manusia juga dapat belajar melalui pengalaman pemecahan masalah yang ia lakukan. Setelah berhasil mengatasi sebuah masalah, manusia akan mengingat struktur dan cara mengatasi masalah tersebut. Apabila manusia mengalami sebuah masalah yang hampir serupa, maka manusia dapat mengatasi masalah tersebut secara lebih efisien. Ada banyak cara lain untuk mendapatkan knowledge dan kita akan membahasnya lebih lanjut di bab- bab selanjutnya.
 
@@ -59,13 +58,10 @@ Contoh :
 3. Bidang teks atau information retrieval: menerjemahkan bahasa menggunakan mesin atau machine translation, mengubah suara menjadi teks atau speech recognition, atau memisahkan email antara yang spam dan yang non-spam.
 
 
-	Computer Vision
-	Computer Vision merupakan  salah satu cabang ilmu pengetahuan yang mempelajari bagaimana komputer dapat mengenali obyek yang diamati/ diobservasi. Cabang ilmu ini bersama Intelijensia Semu (Artificial Intelligence) akan mampu menghasilkan sistem intelijen visual (Visual Intelligence System).
-
+ Computer Vision
+Computer Vision merupakan  salah satu cabang ilmu pengetahuan yang mempelajari bagaimana komputer dapat mengenali obyek yang diamati/ diobservasi. Cabang ilmu ini bersama Intelijensia Semu (Artificial Intelligence) akan mampu menghasilkan sistem intelijen visual (Visual Intelligence System).
 Computer Vision adalah kombinasi antara Pengolahan Citra dan Pengenalan Pola yang hubungan antara ketiganya dapat dilihat pada gambar berikut.
-
 Pengolahan Citra (Image Processing) merupakan bidang yang berhubungan dengan proses transformasi citra/gambar (image). Proses ini bertujuan untuk mendapatkan kualitas citra yang lebih baik. 
-
 Sedangkan Pengenalan Pola (Pattern Recognition), bidang ini berhubungan dengan proses identifikasi obyek pada citra atau interpretasi citra. Proses ini bertujuan untuk mengekstrak informasi/pesan yang disampaikan oleh gambar/citra.
 
 Contoh : 
@@ -75,22 +71,22 @@ Contoh :
 •	Modeling benda atau lingkungan (misalnya, inspeksi industri, analisis citra medis atau model topografi).
 •	Interaksi (misalnya, sebagai input ke perangkat untuk interaksi komputer-manusia).
 
-	Robotika
+ Robotika
 Kecerdasan Buatan (Artificial Intelligence) dalam robotik adalah suatu algorithma (yang dipandang) cerdas yang diprogramkan ke dalam kontroler robot. Pengertian cerdas di sini sangat relatif, karena tergantung dari sisi mana sesorang memandang. Dalam literatur, orang pertama yang dianggap sebagai pionir dalam mengembangkan mesin cerdas (intelligence machine) adalah Alan Turing, sorang matematikawan asal Inggris yang memulai karir saintifiknya di awal tahun 1930-an. Di tahun 1937 ia menulis paper tentang konsep mesin universal (universal machine). Kemudian, selama perang dunia ke-2 ia dikenal sebagai pemain kunci dalam penciptaan Enigma, sebuah mesin encoding milik militer Jerman. Ia dikenal juga sebagai pencipta pertama program komputer untuk bermain catur, yang kemudian program ini dikembangkan dan dimainkan di komputer milik Manchester University. Karya-karyanya ini, yang kemudian dikenal sebagai Turing Machine, dewasa ini masih dapat ditemukan aplikasi-aplikasinya. Beberapa tulisannya yang berkaitan dengan prediksi perkembangan komputer di masa datang akhirnya juga ada yang terbukti. Misalnya tentang ramalannya bahwa di tahun 2000-an komputer akan mampu melakukan percakapan dengan manusia. Meski tidak ditemukan dalam paper-papernya tentang istilah tsb, para peneliti di bidang ini sepakat untuk menobatkan Turing sebagai orang pertama yang mengembangkan kecerdasan buatan.
 
 Dalam aplikasi lain, AI juga dapat digunakan untuk membantu proses identifikasi model dari sistem robot, model lingkungan atau gangguan, model dari tugas robot (task) seperti membuat rencana trajektori, dan sebagainya. Dalam hal ini konsep AI tidak digunakan secara langsung (direct) ke dalam kontroler, namun lebih bersifat tak langsung (indirect).
 Berdasarkan penggunaannya robot dapat digolongkan sebagai:
 
 
-    Robot pribadi (personal robots)
+ Robot pribadi (personal robots)
 Juga disebut dengan home robots (robot rumah tangga), karena terutama ditujukan untuk membantu pekerjaan-pekerjaan rumah tangga menjadi lebih otomatis. 
 
 
-    Robot industri (industrial robots)
+ Robot industri (industrial robots)
 Robot industri merupakan robot yang digunakan untuk membantu di dalam proses produksi, misalnya untuk menangani material, mengelas, mengecat, memasang komponen dan lain sebagainya.
 
 
-    Robot pendidikan (educational robots).
+ Robot pendidikan (educational robots).
 Robot pendidikan ini dikembangkan untuk tujuan membantu di dalam mengajar tentang operai dan penggunaan dari robot industry
 
 Contoh :
